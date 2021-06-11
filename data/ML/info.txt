@@ -1,0 +1,2 @@
+search_github(["IBM", "machine learning"],data_path,error,f,v_f,fout)
+search_github(["IBM", "machine learning"," data mining"],data_path,error,f,v_f,fout,nof,nofadd)

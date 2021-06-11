@@ -1,0 +1,51 @@
+0 Go
+1 Shell
+2 PowerShell
+3 Makefile
+4 Dockerfile
+5 Python
+6 Lua
+7 C
+8 sed
+9 Ruby
+10 HTML
+11 Rust
+12 Assembly
+13 JavaScript
+14 Smarty
+15 CSS
+16 Batchfile
+17 Mustache
+18 JSONiq
+19 Scala
+20 Handlebars
+21 Java
+22 Thrift
+23 C++
+24 Open Policy Agent
+25 TypeScript
+26 Groovy
+27 Awk
+28 1C Enterprise
+29 PLpgSQL
+30 Starlark
+31 Rich Text Format
+32 Roff
+33 HCL
+34 Vim script
+35 Emacs Lisp
+36 PureBasic
+37 Protocol Buffer
+38 SaltStack
+39 Nginx
+40 SCSS
+41 C#
+42 Jupyter Notebook
+43 CMake
+44 Puppet
+45 R
+46 Jsonnet
+47 M4
+48 POV-Ray SDL
+49 PHP
+50 Objective-C
